@@ -1,0 +1,35 @@
+body{
+    background:rgb(149, 178, 232)
+}
+
+h1{
+    font-family:'Alex Brush', cursive;
+    font-style:normal;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+h4{
+    color:rgb(94, 35, 149)
+}
+
+#camera{
+    border:2px solid;
+    border-color:azure
+}
+
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
+ 
+.column{
+    display:inline;
+    padding: 10px;
+}
